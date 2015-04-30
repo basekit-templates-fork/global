@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 Global
 =======
 
@@ -12,4 +11,3 @@ specify
 =======
 
 Standard template
->>>>>>> upstream/develop
