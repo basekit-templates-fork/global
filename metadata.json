@@ -1,60 +1,72 @@
 {
-	"name":"Global",
-	"thumbnail":"global.png",
-	"templateType":"standard",
-	"pageTypes":["home"],
-	"tags": {
-		"en": ["minimal", "clean", "photography", "modern", "website", "creative", "unique", "media", "sans-serif"]
-	},
-	"colorSwatches": {
+    "name": "Global",
+    "thumbnail": "global.png",
+    "templateType": "standard",
+    "pageTypes": [
+        "home"
+    ],
+    "tags": {
+        "en": [
+            "minimal",
+            "clean",
+            "photography",
+            "modern",
+            "website",
+            "creative",
+            "unique",
+            "media",
+            "sans-serif"
+        ]
+    },
+    "colorSwatches": {
         "Swatch 1": {
-            "color1":"#ffffff",
-            "color2":"#3C3C3C",
-            "color3":"#E20A0A",
-            "color4":"#000000",
-            "color5":"#7f7f7f",
-            "color6":"#ffffff",
-            "color7":"#000000"
+            "color1": "#ffffff",
+            "color2": "#3C3C3C",
+            "color3": "#E20A0A",
+            "color4": "#000000",
+            "color5": "#7f7f7f",
+            "color6": "#ffffff",
+            "color7": "#000000"
         },
         "Swatch 2": {
-            "color1":"#ffffff",
-            "color2":"#682025",
-            "color3":"#cc8e80",
-            "color4":"#682025",
-            "color5":"#7f7f7f",
-            "color6":"#ffffff",
-            "color7":"#350D49"
+            "color1": "#ffffff",
+            "color2": "#682025",
+            "color3": "#cc8e80",
+            "color4": "#682025",
+            "color5": "#7f7f7f",
+            "color6": "#ffffff",
+            "color7": "#350D49"
         },
         "Swatch 3": {
-            "color1":"#ffffff",
-            "color2":"#682057",
-            "color3":"#cc80a7",
-            "color4":"#682057",
-            "color5":"#7f7f7f",
-            "color6":"#ffffff",
-            "color7":"#cc80a7"
+            "color1": "#ffffff",
+            "color2": "#682057",
+            "color3": "#cc80a7",
+            "color4": "#682057",
+            "color5": "#7f7f7f",
+            "color6": "#ffffff",
+            "color7": "#cc80a7"
         },
         "Swatch 4": {
-            "color1":"#ffffff",
-            "color2":"#476820",
-            "color3":"#97cc80",
-            "color4":"#476820",
-            "color5":"#7f7f7f",
-            "color6":"#ffffff",
-            "color7":"#97cc80"
+            "color1": "#ffffff",
+            "color2": "#476820",
+            "color3": "#97cc80",
+            "color4": "#476820",
+            "color5": "#7f7f7f",
+            "color6": "#ffffff",
+            "color7": "#97cc80"
         },
         "Swatch 5": {
-            "color1":"#ffffff",
-            "color2":"#348865",
-            "color3":"#85decd",
-            "color4":"#348865",
-            "color5":"#919191",
-            "color6":"#ffffff",
-            "color7":"#85decd"
+            "color1": "#ffffff",
+            "color2": "#348865",
+            "color3": "#85decd",
+            "color4": "#348865",
+            "color5": "#919191",
+            "color6": "#ffffff",
+            "color7": "#85decd"
         }
     },
     "fontSwatch": {
-       "title": "Petrona",
+        "title": "Petrona",
         "font1": {
             "font-family": "\"Petrona\", \"Georgia\", serif",
             "font-size": "34px",
@@ -105,7 +117,7 @@
             "color-hover": "@color-swatch1",
             "background-color": "@color-swatch2",
             "background-color-hover": "@color-swatch2"
-         },
+        },
         "font7": {
             "font-family": "\"Petrona\", \"Georgia\", serif",
             "font-size": "15px",
@@ -141,5 +153,6 @@
             "color": "@color-swatch1",
             "letter-spacing": "inherit"
         }
-    }
+    },
+    "screenshot": "global-screenshot.jpg"
 }
